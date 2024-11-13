@@ -2,10 +2,14 @@
 
 I'm a Software Developer and Data Scientist with a passion for combining a lot of things I know to see what unicorn monstrosity I can create. I enjoy building open-source tools to help make things easier for you.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedcontent&show_icons=true&theme=radical)
+
 ### 🔧 Skills & Technologies
 - **Languages**: Python, JavaScript, C++, C#, Svelte
 - **Frameworks**: React, Node.js, Flask, Django
 - **Tools**: Git, Heroku
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+
 
 ### 🛠 Projects
 - **[Weather Buddy]([URL](https://ogemeph.vercel.app/))**: Weather Buddy is a SaaS app that helps you Stay Ahead of Mother Nature.
@@ -14,6 +18,10 @@ I'm a Software Developer and Data Scientist with a passion for combining a lot o
 ### 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/ogemeph)
 - [Portfolio](https://ogemeph.vercel.app)
+
+### ✨ Do I have fans?
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=codedcontent)
+
 
 ### 🎉 Fun Facts
 - 🌱 I’m currently deep diving into machine learning.
