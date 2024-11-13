@@ -9,7 +9,7 @@ I'm a Software Developer and Data Scientist with a passion for combining a lot o
 - **Frameworks**: React, Node.js, Flask, Django
 - **Tools**: Git, Heroku
 
-### ✨ Badges
+### ✨ Badges of Honour
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
