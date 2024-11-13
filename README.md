@@ -8,6 +8,7 @@ I'm a Software Developer and Data Scientist with a passion for combining a lot o
 - **Languages**: Python, JavaScript, C++, C#, Svelte
 - **Frameworks**: React, Node.js, Flask, Django
 - **Tools**: Git, Heroku
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 
@@ -20,7 +21,7 @@ I'm a Software Developer and Data Scientist with a passion for combining a lot o
 - [Portfolio](https://ogemeph.vercel.app)
 
 ### ✨ Do I have fans?
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=codedcontent)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=codedcontent.visitor-badge)
 
 
 ### 🎉 Fun Facts
