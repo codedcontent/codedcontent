@@ -9,7 +9,19 @@ I'm a Software Developer and Data Scientist with a passion for combining a lot o
 - **Frameworks**: React, Node.js, Flask, Django
 - **Tools**: Git, Heroku
 
+### ✨ Badges
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)
+
 
 
 ### 🛠 Projects
@@ -20,8 +32,6 @@ I'm a Software Developer and Data Scientist with a passion for combining a lot o
 - [LinkedIn](https://www.linkedin.com/in/ogemeph)
 - [Portfolio](https://ogemeph.vercel.app)
 
-### ✨ Do I have fans?
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=codedcontent.visitor-badge)
 
 
 ### 🎉 Fun Facts
