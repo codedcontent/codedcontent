@@ -1,6 +1,6 @@
 # Hey 👋 I'm Ogechukwu Mephors!
 
-I'm a Software Developer and Data Scientist with a passion for combining a lot of things I know to see what unicorn monstrosity I can create. I enjoy building open-source tools to help make things easier for you.
+I'm a Fullstack Developer and Data Scientist with a passion for combining a lot of things I know - to see what unicorn monstrosity I can create. I enjoy building open-source tools to help make things easier for you. What's the one problem you wish solved? Let's use tech to solve that!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedcontent&show_icons=true&theme=radical)
 
