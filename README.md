@@ -22,16 +22,16 @@ I'm a Software Developer and Data Scientist with a passion for combining a lot o
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)
 
-
-
-### 🛠 Projects
-- **[Weather Buddy]([URL](https://ogemeph.vercel.app/))**: Weather Buddy is a SaaS app that helps you Stay Ahead of Mother Nature.
-- **[Tournaments.IO]([URL](https://ogemeph.vercel.app/))**: Tournaments.io is a huge library of games that you can battle it out with your friends, play tournaments to be its victor and win prizes.
+### 🛠 **Recent Projects:**
+- **ETL Pipeline with Python and Postgres**: Built an [ETL Pipeline](https://github.com/codedcontent/Orchid-Tech-ETL-project)
+ that extracts, transforms, and loads data using Python and Postgres.
+- **Power BI Report**: Developed a report with Power BI to visualize key data insights.
+- Weather Buddy: **[Weather Buddy](https://ogemeph.vercel.app/)** is a SaaS app that helps you Stay Ahead of Mother Nature.
+- Tournaments.IO: **[Tournaments.IO](https://ogemeph.vercel.app/)** is a huge library of games that you can battle it out with your friends, play tournaments to be its victor and win prizes.
 
 ### 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/ogemeph)
 - [Portfolio](https://ogemeph.vercel.app)
-
 
 
 ### 🎉 Fun Facts
